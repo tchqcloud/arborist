@@ -1,0 +1,9 @@
+<html xmlns="http://www.w3.org/1999/xhtml/" >
+<head>
+   <title>HTML Website Home Page</title>
+</head>
+<body>
+   <h1>Check out my one page site!</h1>
+   <p>Mini-site hosted on Amazon S3</p>
+</body>
+</html>
